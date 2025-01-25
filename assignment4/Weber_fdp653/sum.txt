@@ -1,0 +1,5 @@
+Part II: Discussion (4 points each, 8 points).
+Which 2 versions are unsafe when multi-threaded (*)?
+Sum1 and Sum2 are unsafe in a multi threaded context
+Which version is closest to call-by-name?
+sum7 is closest to call by name because C doesnt have call by name

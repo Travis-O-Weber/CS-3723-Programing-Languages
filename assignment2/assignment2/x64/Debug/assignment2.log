@@ -1,0 +1,2 @@
+﻿  assignment2.c
+C:\Users\legol\OneDrive\Documents\CS 3723 Programing Languages\assignment2\assignment2\assignment2.c(16,16): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
